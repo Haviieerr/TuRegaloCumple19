@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+ 
+ 
+ }
+ 
+ body{
+    background: #069 ;
+ 
+ }
+ 
+ h1{
+     color: white;
+     font-size: 4em;
+     text-align: center;
+     position: absolute;
+     top: 30%;
+     left: 50%;
+     transform: translateX(-50%) translateY(-160%);
+ }
+ 
+ 
+ 
+ img{
+ 
+    image-resolution: center;
+     position: absolute;
+     top: 80%;
+     left: 50%;
+     transform: translateX(-50%) translateY(-90%);
+ 
+ 
+ }
+ 
+ h3{
+ 
+    color: white;
+    font-size: 2em;
+     text-align: center;
+     position: absolute;
+     top: 80%;
+     left: 50%;
+     transform: translateX(-50%) translateY(-25%);
+ 
+ }
